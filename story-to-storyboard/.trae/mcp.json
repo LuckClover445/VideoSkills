@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "prompt-optimizer": {
+      "url": "http://47.251.140.61:8081/mcp"
+    }
+  }
+}
